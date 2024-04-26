@@ -1,2 +1,2 @@
 # GAN
-Implemented a basic General Adversal network using Tensorflow to generate person's face.
+Implemented a basic Generative Adversal network using Tensorflow to generate human faces.
